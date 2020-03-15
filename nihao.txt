@@ -1,3 +1,4 @@
+fix bug
 hello world!
 VIM is good!
 nihao
